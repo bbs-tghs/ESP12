@@ -1,0 +1,9 @@
+Der Modul mit dem ESP in der Rev1 war nicht mehr lieferbar.
+Deshalb habe ich ein entsprechendes Modul entworfen.
+Das 0.96"-Diaplay gibt es leider in zwei verschiedenen Varianten. 
+Bei diesen beiden Varianten sind die Anschlüsse der Spannungsversorgung gerade vertauscht.
+Das Board der Rev2 enthält nun 2 Lötbrücken, damit beide Displaytypen verwendbar sind.
+
+Dabei hat sich leider ein kleiner Fehler im Layout eingeschlichen. 
+Der Fehler wird im Bild HWPatch_1.jpg gezeigt. Er muss mit einem Cuttermesser o.ä. behoben werden.
+
