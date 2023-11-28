@@ -1,0 +1,86 @@
+Partlist
+
+Exported from bbstghs_wlan.brd at 21.07.2018 16:31:17
+
+EAGLE Version 5.9.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Package       Library  Position (mil)        Orientation
+
+C1       100n           C050-030X075  bbstghs  (2550 3575)           R90
+C2       100nF          C050-030X075  bbstghs  (750 1175)            R180
+C3       100nF          C050-030X075  bbstghs  (425 1375)            R270
+C4       100n           C050-030X075  bbstghs  (1525 3600)           R270
+C5       100n           C050-030X075  bbstghs  (1525 3300)           R90
+C6       10µ            E2,5-6        bbstghs  (1325 3150)           R90
+C7       100n           C050-030X075  bbstghs  (950 3200)            R90
+C8       100n           C050-030X075  bbstghs  (650 3500)            R180
+C9       22p            C025-025X050  bbstghs  (175 3100)            R270
+C10      22p            C025-025X050  bbstghs  (175 3300)            R90
+C11      10n            C025-025X050  bbstghs  (425 3550)            R90
+D1       1N581          DO41-10       bbstghs  (1325 3825)           R180
+IC1      LV33CV         78XXS         v-reg-3  (1775 3450)           R270
+IC2      ULN2803A       DIL18         uln-udn  (3575 1200)           R270
+LED1                    LED3MM        bbstghs  (1125 3450)           R180
+LED2                    LED3MM        bbstghs  (1125 3625)           R180
+LED3                    LED3MM        bbstghs  (1525 3050)           R270
+LED_1    RGBLED         RGBLED        bbstghs  (3600 2700)           R90
+LED_2    RGBLED         RGBLED        bbstghs  (3950 2700)           R90
+LSP1     LSP13          LSP13         solpad   (3925 1000)           R0
+LSP2     LSP10          LSP10         solpad   (4250 3725)           R0
+LSP3     LSP10          LSP10         solpad   (5700 3800)           R0
+LSP4     LSP10          LSP10         solpad   (4250 175)            R0
+LSP5     LSP10          LSP10         solpad   (5700 100)            R0
+LSP6     LSP10          LSP10         solpad   (4450 3725)           R0
+LSP7     LSP10          LSP10         solpad   (5875 3725)           R0
+LSP8     LSP10          LSP10         solpad   (4450 175)            R0
+LSP9     LSP10          LSP10         solpad   (5875 175)            R0
+Q1       12MHz          HC49/S        bbstghs  (350 3200)            R270
+Q2       BC337          TO92          bbstghs  (575 2925)            R180
+Q3       BC337          TO92          bbstghs  (800 2925)            R180
+R1       10k            R1206         bbstghs  (3200 3350)           MR270
+R2       4k7            R1206         bbstghs  (2900 3350)           MR270
+R3       10k            R1206         bbstghs  (2725 3175)           MR180
+R4       4k7            R1206         bbstghs  (2900 3025)           MR90
+R5       470R           0207/10       bbstghs  (3500 2225)           R90
+R6       470R           0207/10       bbstghs  (3600 2225)           R90
+R7       470R           0207/10       bbstghs  (3700 2225)           R90
+R8       470R           0207/10       bbstghs  (3850 2225)           R90
+R9       470R           0207/10       bbstghs  (3950 2225)           R90
+R10      470R           0207/10       bbstghs  (4050 2225)           R90
+R11      LDRLDR         LDR           bbstghs  (3200 425)            R270
+R12      10k            0207/10       bbstghs  (350 725)             R180
+R13      10k            0207/10       bbstghs  (350 825)             R180
+R14      10k            0207/10       bbstghs  (350 925)             R180
+R15      10k            0207/10       bbstghs  (350 1025)            R180
+R16      1k             0207/10       bbstghs  (1375 3500)           R270
+R17      1k             0207/10       bbstghs  (1275 3500)           R270
+R18      470R           0207/10       bbstghs  (1075 3100)           R270
+R19      470R           0207/10       bbstghs  (1175 3100)           R270
+R20      470R           0207/10       bbstghs  (2900 425)            R90
+R21      1k             0207/10       bbstghs  (1475 2900)           R0
+R22      12k            0207/10       bbstghs  (550 2650)            R180
+R23      12k            0207/10       bbstghs  (675 2750)            R0
+R24      1M             0204V         bbstghs  (275 3500)            R180
+S1       MTG_1241       SCHURTER_MTG  bbstghs  (450 125)             R0
+S2       MTG_1241       SCHURTER_MTG  bbstghs  (950 125)             R0
+S3       MTG_1241       SCHURTER_MTG  bbstghs  (1450 125)            R0
+S4       MTG_1241       SCHURTER_MTG  bbstghs  (1950 125)            R0
+SJ1                     SJW           jumper   (1350 2700)           MR0
+SJ2                     SJW           jumper   (1350 2500)           MR0
+SP1      AC-1205G       KSS1201       bbstghs  (3775 3225)           R180
+SV1                     MA04-1        con-lstb (3500 3675)           R270
+SV2                     FE08          con-lsta (1725 2125)           R270
+SV3                     FE08          con-lsta (1875 2125)           R270
+SV4                     FE08          con-lsta (1725 1325)           R270
+SV5                     FE08          con-lsta (1875 1325)           R270
+SV6                     MA04-1        con-lstb (1825 3825)           R0
+SV7                     MA04-1        con-lstb (1975 3450)           R90
+SV8                     MA04-1        con-lstb (1825 3075)           R0
+SV9                     MA05-1        con-lstb (2575 625)            R0
+SV10                    MA10-1        con-lstb (3150 1350)           R270
+T1       BSS138         SOT23         bbstghs  (3050 3350)           MR90
+T2       BSS138         SOT23         bbstghs  (2675 3325)           MR180
+U1       OLED_096       OLED_096      bbstghs  (2250 2650)           R0
+U2       ESP-12F-MODUL  ESP-12F_MODUL bbstghs  (775 1975)            R0
+U3       CH340G         SO16          bbstghs  (675 3200)            R180
+X1       PN61729-S      PN61729-S     bbstghs  (725 3775)            R180
